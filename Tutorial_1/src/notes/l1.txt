@@ -1,0 +1,16 @@
+SPA - Single-Page Application
+MPA - Multi-Page Application
+ES6
+React, ReactDom
+1.document.createElement()
+2.document.body.appendChild()
+3.console.dir()
+4.innerText, id, className, style
+Props
+- React element 
+class -> className , 
+for -> htmlFor
+- React component
+Giống như đối số của function
+prop key 
+Destrucring
